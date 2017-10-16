@@ -1,3 +1,4 @@
 <?php
 
-echo "Hello, world";
+// Composer autoload include
+require_once "vendor/autoload.php";
